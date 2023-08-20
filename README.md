@@ -47,8 +47,8 @@ Skills: JAVA / SPRING / SQL / INTELLIJ IDEA / MAVEN
 ### My opensource projects
 
 *   [pdf searching engine](https://github.com/KrozhDev/pcs-final-diplom) - Pdf searching engine indexes folder with pdf files. The server receives the request as a words and rsponse in JSON format with those words frequency in each file.
+*   [finance manager](https://github.com/KrozhDev/financeManager) - Server maven application playing the role of a personal finance manager
 <!--
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
 *   [Skyscanner Flight API client](https://github.com/kh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
 *   [Flights-monitoring](https://github.com/kh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 
