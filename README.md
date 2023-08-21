@@ -49,10 +49,8 @@ Skills: JAVA / SPRING / SQL / INTELLIJ IDEA / MAVEN
 *   [pdf searching engine](https://github.com/KrozhDev/pcs-final-diplom) - Pdf searching engine indexes folder with pdf files. The server receives the request as a words and rsponse in JSON format with those words frequency in each file.
 *   [finance manager](https://github.com/KrozhDev/financeManager) - Server maven application playing the role of a personal finance manager.
 *   [task manager](https://github.com/KrozhDev/taskManager) - Server maven application. Task manager.
-
+*   [ASCII Converter](https://github.com/KrozhDev/ASCII_Converter) - Photo to ASCII-picture converter.
 <!--
-*   [Flights-monitoring](https://github.com/kh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
-
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/kh3/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=kh3&color=DE002D">
