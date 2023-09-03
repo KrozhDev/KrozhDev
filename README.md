@@ -47,6 +47,7 @@ Skills: JAVA / SPRING / SQL / INTELLIJ IDEA / MAVEN
 ### My opensource projects
 
 *   [pdf searching engine](https://github.com/KrozhDev/pcs-final-diplom) - Pdf searching engine indexes folder with pdf files. The server receives the request as a words and rsponse in JSON format with those words frequency in each file.
+*   [telegram bot](https://github.com/KrozhDev/notificationTaskBot) - Spring telegram bot reminds about tasks
 *   [finance manager](https://github.com/KrozhDev/financeManager) - Server maven application playing the role of a personal finance manager.
 *   [task manager](https://github.com/KrozhDev/taskManager) - Server maven application. Task manager.
 *   [ASCII Converter](https://github.com/KrozhDev/ASCII_Converter) - Photo to ASCII-picture converter.
