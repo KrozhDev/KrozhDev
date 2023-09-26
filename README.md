@@ -44,8 +44,9 @@ Skills: JAVA / SPRING / SQL / INTELLIJ IDEA / MAVEN
 
 
 
-### My opensource projects
+### My opensource projects 
 
+*   [shelter_telegram bot](https://github.com/Grigorii-star/Team-Work-Telegram-Bot) - Team work. Telegram bot for shelters.
 *   [pdf searching engine](https://github.com/KrozhDev/pcs-final-diplom) - Pdf searching engine indexes folder with pdf files. The server receives the request as a words and rsponse in JSON format with those words frequency in each file.
 *   [telegram bot](https://github.com/KrozhDev/notificationTaskBot) - Spring telegram bot reminds about tasks
 *   [finance manager](https://github.com/KrozhDev/financeManager) - Server maven application playing the role of a personal finance manager.
