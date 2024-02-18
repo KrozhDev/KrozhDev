@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Konstantin
-#### I am a beginner programmer
-
-I am looking for a job as a java developer
+#### I am a java backend developer
 
 Skills: JAVA / SPRING / SQL / INTELLIJ IDEA / MAVEN
 
