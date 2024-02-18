@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Konstantin
-#### I am a java backend developer
+#### I am a java backend developer in Diasoft
 
 Skills: JAVA / SPRING / SQL / INTELLIJ IDEA / MAVEN
 
